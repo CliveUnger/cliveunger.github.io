@@ -1,4 +1,4 @@
-## About me
+## About Me
 
 Hi, I'm Clive Unger. I am a junior at the University of Texas, studying Electrical and Computer Engineering.
 
