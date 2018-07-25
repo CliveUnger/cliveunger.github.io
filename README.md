@@ -4,6 +4,8 @@ Hi, I'm Clive Unger. I am a junior at the University of Texas, studying Electric
 
 You can find my resume [here](https://cliveunger.github.io/CliveUngerResume2018.pdf)
 
+Coursework [./education.html]
+
 ### Links
 
 [GitHub](https://github.com/CliveUnger)
