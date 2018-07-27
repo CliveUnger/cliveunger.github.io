@@ -36,6 +36,7 @@
 - EE302 Intro to Electrical Engineering
 - EE306 Intro to Computing
 - M408C Differential and Integral Calculus
+- UGS303 Foundations of Logical Thought
 
 ### High School
 - AP Physics 1, 2, & C
