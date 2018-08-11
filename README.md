@@ -12,5 +12,4 @@ You can find my resume [here](https://cliveunger.github.io/CliveUngerResume2018.
 
 [Linkedin](https://www.linkedin.com/in/cliveunger)
 
-[Twitter](https://twitter.com/cliveunger)
 
