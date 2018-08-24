@@ -2,9 +2,9 @@
 
 Hi, I'm Clive Unger. I am a junior at the University of Texas, studying Electrical and Computer Engineering.
 
-You can find my resume [here](https://cliveunger.github.io/CliveUngerResume2018.pdf)
+### [Resume](https://cliveunger.github.io/CliveUngerResume2018.pdf)
 
-[Coursework](./education.html)
+### [Coursework](./education.html)
 
 ### Links
 
