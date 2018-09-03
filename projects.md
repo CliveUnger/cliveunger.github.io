@@ -1,23 +1,23 @@
 # Projects
 
-[HipHopHeads Twitter Bot]()
+:microphone:[HipHopHeads Twitter Bot]()
 
-[quietreddit]()
+:alien:[quietreddit]()
 
-[Twitter Sentiment Analysis]()
+:baby_chick:[Twitter Sentiment Analysis]()
 
-[McCombs Summer Institute ]()
+:chart_with_upwards_trend:[McCombs Summer Institute ]()
 
-[UT Solar Vehicle Team]()
+:sunny:[UT Solar Vehicle Team]()
 
-[EE319k Game Design]()
+:video_game:[EE319k Game Design]()
 
-[EE302 Robot Car]()
+:red_car:[EE302 Robot Car]()
 
-[High School Robotics]()
+:triangular_ruler:[High School Robotics]()
 
-[Workout Helper Site]()
+:muscle:[Workout Helper Site]()
 
-[BPA Web Design Competition]()
+:globe_with_meridians:[BPA Web Design Competition]()
 
-[Skillcraft - Minecraft Server]()
+:hammer:[Skillcraft - Minecraft Server]()
