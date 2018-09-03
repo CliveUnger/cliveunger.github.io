@@ -20,4 +20,4 @@
 
 :globe_with_meridians:[BPA Web Design Competition](./projects/BPA.md)
 
-:hammer:[Skillcraft - Minecraft Server](Skillcraft.md)
+:hammer:[Skillcraft - Minecraft Server](./projects/Skillcraft.md)
