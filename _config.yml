@@ -1,6 +1,7 @@
 title: Clive Unger
 theme: jekyll-theme-minimal
 email: clive.unger@utexas.edu
+google_analytics: UA-125048151-1
 
 plugins:
   - jemoji
