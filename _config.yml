@@ -7,3 +7,5 @@ google_analytics: UA-125048151-1
 
 plugins:
   - jemoji
+
+# bundle exec jekyll serve
