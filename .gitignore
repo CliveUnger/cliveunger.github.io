@@ -1,1 +1,5 @@
 Gemfile
+vendor/
+Gemfile.lock
+_site/
+.bundle/
