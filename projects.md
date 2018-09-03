@@ -1,6 +1,6 @@
 # Projects
 
-:microphone:[HipHopHeads Twitter Bot]()
+:microphone:[HipHopHeads Twitter Bot](./projects/HipHopHeads.md)
 
 :alien:[quietreddit]()
 
