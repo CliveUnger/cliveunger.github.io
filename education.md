@@ -1,10 +1,16 @@
 ### University of Texas
 
-### Fall 2018 (current enrollment)
+### Spring 2019 (current enrollment)
+- EE360P Concurrent and Distributed Systems
+- EE351M Digital Signal Processing
+- M378K Mathematical Statistics
+- ADV332C New Media Entrepreneurialism
+
+### Fall 2018
 - EE460J Data Science Lab
 - EE461P Data Science Principles
-- EE371R Digital Image and Video Processing
 - EE333T Engineering Communication
+- PED107D	Golf
 
 ### Spring 2018
 - EE360C Algorithms 
