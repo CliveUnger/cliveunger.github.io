@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Clive Unger. I am a junior at the University of Texas, studying Electrical and Computer Engineering with a focus in Data Science and Software Engineering.
+Hi, I'm Clive Unger. I am a Senior at the University of Texas, studying Electrical and Computer Engineering with a focus in Data Science and Software Engineering. Starting this semester, I am pursuing a Masters through the [BSEE/MSE Integrated Program](http://www.ece.utexas.edu/bsms)
 
 ### [Resume](https://cliveunger.github.io/CliveUngerResume.pdf)
 
