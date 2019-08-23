@@ -1,6 +1,13 @@
-### University of Texas
+### University of Texas at Austin 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/University_of_Texas_at_Austin_logo.svg/1280px-University_of_Texas_at_Austin_logo.svg.png)
 
-### Spring 2019 (current enrollment)
+### Fall 2019 (current enrollment)
+- EE364D Senior Design
+- EE371R Image Processing
+- EE382C Software Architectures
+- J379 Research with [Professor Dhiraj Murthy](https://www.dhirajmurthy.com/about/) in the [Computational Media Lab](http://www.computationalmedialab.com/)
+
+### Spring 2019
 - EE360P Concurrent and Distributed Systems
 - EE351M Digital Signal Processing
 - M378K Mathematical Statistics
