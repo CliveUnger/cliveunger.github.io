@@ -8,7 +8,7 @@ Hi, I'm Clive Unger. I am a Senior at the University of Texas, studying Electric
 
 ### Projects:
 
-- #### [Data Science Lab Kaggle Competition](./DataScienceLabKaggle.md)
+- #### [Data Science Lab Kaggle Competition](./projects/DataScienceLabKaggle.md)
 
 - #### [Quora Insincere Question Classification](https://yuan-chang-ut.github.io/Data-Science-Principles-Final-Project/)
 
