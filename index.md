@@ -8,8 +8,8 @@ Hi, I'm Clive Unger. I am a Senior at the University of Texas, studying Electric
 
 ### Projects:
 
+- #### [Data Science Lab Kaggle Competition](./DataScienceLabKaggle.md)
+
 - #### [Quora Insincere Question Classification](https://yuan-chang-ut.github.io/Data-Science-Principles-Final-Project/)
 
 - #### [PUBG Placement Prediction - Kaggle Competition](https://cliveunger.github.io/EE460J_Final_Project_PUBG/)
-
-- #### [/r/HipHopHeads Twitter Bot](https://twitter.com/HipHopHeadNews)
