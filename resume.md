@@ -62,6 +62,6 @@ Contact: clive.unger@utexas.edu | (254) 722-1897 | [cliveunger.github.io](cliveu
 - Streamlined merchandizing process for organization; saved 5% of annual budget
 - Assisted in raising over $35,000 for the Special Olympics of Texas through multiple service events
 
-**Unrestricted Endowed Presidential Scholarship** – Merit-based award nominated by faculty — Fall 2018
+**Unrestricted Endowed Presidential Scholarship** — Merit-based award nominated by faculty — Fall 2018
 
 **Eta Kappa Nu (HKN)** — Electrical Engineering Honor Society — Spring 2018
