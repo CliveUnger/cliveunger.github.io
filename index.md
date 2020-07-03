@@ -1,6 +1,9 @@
 ## About Me
 
-Hi, I'm Clive Unger. I am a graduate at the University of Texas, with a degree in Electrical and Computer Engineering with a focus in Data Science and Software Engineering. Starting this semester, I am pursuing a Masters through the [BSEE/MSE Integrated Program](http://www.ece.utexas.edu/bsms)
+Hi, I'm Clive Unger. I am a graduate at the University of Texas, with a degree in Electrical and Computer Engineering with a focus in Data Science and Software Engineering. 
+<!---
+Starting this semester, I am pursuing a Masters through the [BSEE/MSE Integrated Program](http://www.ece.utexas.edu/bsms)
+-->
 
 ### [Resume](https://cliveunger.github.io/CliveUngerResume.pdf)
 
