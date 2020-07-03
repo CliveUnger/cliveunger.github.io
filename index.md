@@ -8,14 +8,16 @@ Hi, I'm Clive Unger. I am a graduate at the University of Texas, with a degree i
 
 ### Projects:
 
-- #### Creating Abstract Video from Latent Space Steeting of BigGAN | [Paper](./reports/BigGAN_Videos_Report.pdf) | [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vS1bYKvu3R5y2kJFHJEpdyGy8EieVAjQGCHrc74a2eUZjFYJh7qsIiHmhngtScJQmq_d-2Gqj_iywLY/pub?start=false&loop=false&delayms=3000) | [Demo](https://drive.google.com/file/d/1z4F5TKw6YKut5AIcZTFWhXW77IAkgKhf/view?usp=sharing)
+- #### 📽️ Abstract Video from Latent Space Steeting of BigGAN | [Paper](./reports/BigGAN_Videos_Report.pdf) | [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vS1bYKvu3R5y2kJFHJEpdyGy8EieVAjQGCHrc74a2eUZjFYJh7qsIiHmhngtScJQmq_d-2Gqj_iywLY/pub?start=false&loop=false&delayms=3000) | [Demo](https://drive.google.com/file/d/1z4F5TKw6YKut5AIcZTFWhXW77IAkgKhf/view?usp=sharing)
 
-- #### Deep Learning-based Radio Fingerprinting | [Paper](./reports/Radio_Fingerprinting.pdf)
+- #### 🔍 Deep Learning-based Radio Fingerprinting | [Paper](./reports/Radio_Fingerprinting.pdf)
 
-- #### Basketball Player Tracking | [Paper](./reports/Basketball_Player_Tracking.pdf) | [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vT525j_UuNkivVtRqCjYeV2HAox3mmZBAPue019F4AFuEivJcN2BaSKApaNow3s5_GRzLfK2jInE-lw/pub?start=false&loop=false&delayms=3000)
+- #### 🏀 Basketball Player Tracking | [Paper](./reports/Basketball_Player_Tracking.pdf) | [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vT525j_UuNkivVtRqCjYeV2HAox3mmZBAPue019F4AFuEivJcN2BaSKApaNow3s5_GRzLfK2jInE-lw/pub?start=false&loop=false&delayms=3000)
 
-- #### [Data Science Lab Kaggle Competition](./projects/DataScienceLabKaggle.md)
+- #### 📱 Examining the evolution of mobile social payments in Venmo | [Paper](./reports/Venmo_Paper.pdf)
 
-- #### [Quora Insincere Question Classification](https://yuan-chang-ut.github.io/Data-Science-Principles-Final-Project/)
+- #### [🏆 Data Science Lab Kaggle Competition](./projects/DataScienceLabKaggle.md)
 
-- #### [PUBG Placement Prediction - Kaggle Competition](https://cliveunger.github.io/EE460J_Final_Project_PUBG/)
+- #### [❓ Quora Insincere Question Classification](https://yuan-chang-ut.github.io/Data-Science-Principles-Final-Project/)
+
+- #### [🎮 PUBG Placement Prediction - Kaggle Competition](https://cliveunger.github.io/EE460J_Final_Project_PUBG/)
