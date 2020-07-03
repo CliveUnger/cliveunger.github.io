@@ -1,7 +1,13 @@
 ### University of Texas at Austin 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/University_of_Texas_at_Austin_logo.svg/1280px-University_of_Texas_at_Austin_logo.svg.png)
 
-### Fall 2019 (current enrollment)
+### Spring 2020
+- EE381K Digital Video
+- EE380L Data Mining
+- EE364S Start-up Senior Design
+- EE316 Digital Logic Design
+
+### Fall 2019
 - EE364D Senior Design
 - EE371R Image Processing
 - EE382C Software Architectures
