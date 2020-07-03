@@ -8,7 +8,7 @@ Hi, I'm Clive Unger. I am a graduate at the University of Texas, with a degree i
 
 ### Projects:
 
-- #### Creating Abstract Video from Latent Space Steeting of BigGAN | [Paper](./reports/BigGAN_Generative_Videos_Report.pdf) | [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vS1bYKvu3R5y2kJFHJEpdyGy8EieVAjQGCHrc74a2eUZjFYJh7qsIiHmhngtScJQmq_d-2Gqj_iywLY/pub?start=false&loop=false&delayms=3000) | [Demo](https://drive.google.com/file/d/1z4F5TKw6YKut5AIcZTFWhXW77IAkgKhf/view?usp=sharing)
+- #### Creating Abstract Video from Latent Space Steeting of BigGAN | [Paper](./reports/BigGAN_Videos_Report.pdf) | [Presentation](https://docs.google.com/presentation/d/e/2PACX-1vS1bYKvu3R5y2kJFHJEpdyGy8EieVAjQGCHrc74a2eUZjFYJh7qsIiHmhngtScJQmq_d-2Gqj_iywLY/pub?start=false&loop=false&delayms=3000) | [Demo](https://drive.google.com/file/d/1z4F5TKw6YKut5AIcZTFWhXW77IAkgKhf/view?usp=sharing)
 
 - #### Deep Learning-based Radio Fingerprinting | [Paper](./reports/Radio_Fingerprinting.pdf)
 
