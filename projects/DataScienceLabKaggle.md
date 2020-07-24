@@ -1,3 +1,5 @@
+[Home](../index.md)
+
 # Data Science Lab Project
 
 My Data Science Lab course had a inter-class Kaggle competition that I achieved the highest grade in. Initially I was skeptical I could perform well, as it was the first time I jumped into a true data science project and got my hands dirty. In addition, there was a huge school tradition and football game that weekend, which I reluctantly decided to skip in order to put more time into the project.

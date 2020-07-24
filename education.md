@@ -1,4 +1,6 @@
-### University of Texas at Austin 
+[Home](./index.md)
+
+### University of Texas at Austin
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/University_of_Texas_at_Austin_logo.svg/1280px-University_of_Texas_at_Austin_logo.svg.png)
 
 ### Spring 2020
@@ -26,7 +28,7 @@
 - PED107D	Golf
 
 ### Spring 2018
-- EE360C Algorithms 
+- EE360C Algorithms
 - EE351K Probability & Random Processes
 - EE422C Software Design & Implementation II
 - EE313 Linear Systems and Signals
