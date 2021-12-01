@@ -1,6 +1,6 @@
 # Hi, I'm Clive Unger!
 
-I graduated the University of Texas at Austin with a BS in Computer Engineering and a Data Science focus.
+I graduated in 2020 from the University of Texas at Austin with a BS in Computer Engineering and a Data Science focus. I am working at NVIDIA now!
 
 [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }})
 
@@ -8,7 +8,7 @@ I graduated the University of Texas at Austin with a BS in Computer Engineering 
 
 [Coursework](./education.md)
 
-# Projects:
+# Here are some of my projects:
 
 ## 📽️ Abstract GAN Videos  | [PDF](./pdfs/BigGAN_Videos_Report.pdf) | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vS1bYKvu3R5y2kJFHJEpdyGy8EieVAjQGCHrc74a2eUZjFYJh7qsIiHmhngtScJQmq_d-2Gqj_iywLY/pub?start=false&loop=false&delayms=3000) | [Video](https://drive.google.com/file/d/1z4F5TKw6YKut5AIcZTFWhXW77IAkgKhf/view?usp=sharing)
 
